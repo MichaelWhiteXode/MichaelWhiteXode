@@ -1,7 +1,7 @@
 # Hello, I'm Michael White
 <a href="https://linkedin.com/in/michael-white-crypto"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Michael White](https://path/to/your/image.jpg)
+<img src="IMG_2392.jpg" alt="Profile Picture" width="150"/>
 
 I am a **Financial Consultant** and **Cryptocurrency & FX Trading Expert** with over a decade of experience in navigating the complexities of the financial markets. Known in the industry as **XodeHacker**, I specialize in fund recovery, asset management, and developing effective trading strategies tailored to meet the unique needs of my clients.
 
@@ -9,25 +9,7 @@ I am a **Financial Consultant** and **Cryptocurrency & FX Trading Expert** with 
 My mission is to empower individuals and organizations to achieve their financial goals through informed investment decisions and actionable insights. I am passionate about guiding clients through the ever-evolving landscape of cryptocurrency and FX trading.
 
 ## Core Skills
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-bottom: 20px;
-    }
-    th, td {
-        border: 2px solid #0072b1;
-        padding: 10px;
-        text-align: left;
-    }
-    th {
-        background-color: #0072b1;
-        color: white;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2;
-    }
-</style>
+
 
 <table>
     <tr>
